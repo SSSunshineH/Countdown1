@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+
+}
+h1 {
+    color: peru;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+
+}
+.hightlight{
+    color: red;
+    font-weight:300
+}
+#hobby{
+    color:greenyellow
+}
+img{
+    border: 3px solid black;
+    padding: 10px;
+}
